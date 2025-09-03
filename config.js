@@ -1,2 +1,2 @@
 console.log('config'); 
-console.log('haha'); 
+console.log('haha2'); 
